@@ -1,0 +1,21 @@
+[submodule "SimpleCore"]
+	path = SimpleCore
+	url = https://github.com/H1M4W4R1/SimpleCore
+[submodule "SimpleUserInterface"]
+	path = SimpleUserInterface
+	url = https://github.com/H1M4W4R1/SimpleUI
+[submodule "SimpleDetection"]
+	path = SimpleDetection
+	url = https://github.com/H1M4W4R1/SimpleDetection
+[submodule "SimpleInteract"]
+	path = SimpleInteract
+	url = https://github.com/H1M4W4R1/SimpleInteract
+[submodule "SimpleStats"]
+	path = SimpleStats
+	url = https://github.com/H1M4W4R1/SimpleStats
+[submodule "SimpleEntities"]
+	path = SimpleEntities
+	url = https://github.com/H1M4W4R1/SimpleEntities
+[submodule "SimpleInventory"]
+	path = SimpleInventory
+	url = https://github.com/H1M4W4R1/SimpleInventory
