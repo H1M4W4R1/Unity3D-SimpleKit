@@ -20,7 +20,7 @@ Each module is usually independent of most of the others, but some may exist.
 - Unity.TextMeshPro
 
 ## External
-
+- [DoTween](https://dotween.demigiant.com/) - required
 - [OdinSerializer](https://odininspector.com/odin-serializer) - optional, but heavily recommended to create custom 
   save files
 
