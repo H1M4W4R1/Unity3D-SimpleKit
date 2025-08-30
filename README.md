@@ -15,8 +15,8 @@ Each module is usually independent of most of the others, but some may exist.
 - Unity.Addressables
 - Unity.Burst
 - Unity.Collections
-- Unity.Mathematics
 - Unity.Jobs
+- Unity.Mathematics
 - Unity.TextMeshPro
 
 ## External
