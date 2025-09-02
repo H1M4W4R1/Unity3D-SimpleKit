@@ -19,3 +19,6 @@
 [submodule "SimpleInventory"]
 	path = SimpleInventory
 	url = https://github.com/H1M4W4R1/SimpleInventory
+[submodule "SimpleEconomy"]
+	path = SimpleEconomy
+	url = git@github.com:H1M4W4R1/SimpleEconomy.git
