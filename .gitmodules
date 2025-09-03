@@ -22,3 +22,6 @@
 [submodule "SimpleEconomy"]
 	path = SimpleEconomy
 	url = git@github.com:H1M4W4R1/SimpleEconomy.git
+[submodule "SimpleSkills"]
+	path = SimpleSkills
+	url = git@github.com:H1M4W4R1/SimpleSkills.git
