@@ -25,3 +25,6 @@
 [submodule "SimpleSkills"]
 	path = SimpleSkills
 	url = git@github.com:H1M4W4R1/SimpleSkills.git
+[submodule "SimpleQuests"]
+	path = SimpleQuests
+	url = git@github.com:H1M4W4R1/SimpleQuests.git
